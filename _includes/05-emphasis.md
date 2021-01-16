@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my *attributes* include **typing** :keyboard: and **_drinking coffee)_**
+others include :sparkles: and :headphones:
+Trying out some **emojis** :smile:
