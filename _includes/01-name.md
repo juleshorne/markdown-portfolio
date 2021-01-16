@@ -1,4 +1,4 @@
-# Jules Horne markup practice 
+# Jules Horne markdown practice 
 
 ## a header 2
 ### a header 3
